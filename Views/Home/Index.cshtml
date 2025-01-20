@@ -4,5 +4,22 @@
 
 <div class="text-center">
     <h1 class="display-4">Welcome</h1>
+    
+    <p> Tanggal hari ini : @DateTime.Now.ToShortDateString()</p> @* menambahkan elemen tanggal *@
+
+
     <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
 </div>
+
+
+
+/* menambahkan Element javascript */
+@section Scripts {
+    <script>
+        window.onload = function () {
+            alert("Hallo Dunia");
+        }
+    </script>
+
+} 
+

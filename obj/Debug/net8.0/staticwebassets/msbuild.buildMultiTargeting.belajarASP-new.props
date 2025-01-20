@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\belajarASP-new.props" />
+</Project>
