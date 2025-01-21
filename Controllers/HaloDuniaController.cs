@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using belajarASP_new.Models; /*mengkoneksikan kelas model ke controller*/
 
 namespace belajarASP_new.Controllers
 {
@@ -6,7 +7,14 @@ namespace belajarASP_new.Controllers
     {
         public IActionResult Index()
         {
-            return View();
+            NamaIdentitasModel namasaya = new NamaIdentitasModel() 
+            {
+                Nama = "Joni",
+
+                Usia = 20
+            };
+
+            return View(namasaya);
         }
 
         public IActionResult About()

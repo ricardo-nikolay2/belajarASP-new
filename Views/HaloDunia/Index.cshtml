@@ -1,14 +1,15 @@
-﻿@{
+﻿@model belajarASP_new.Models.NamaIdentitasModel;
+
+
+@{
     ViewData["Title"] = "Halaman Halo Dunia";
 }
 
 <div class="text-center">
     <h1 class="display-4">Halo Dunia</h1>
-    
-    <p> Tanggal hari ini : @DateTime.Now.ToShortDateString()</p> @* menambahkan elemen tanggal *@
+    <p>Halo, nama saya @Model.Nama dan usia saya @Model.Usia  </p>
 
-
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+  
 </div>
 
 
