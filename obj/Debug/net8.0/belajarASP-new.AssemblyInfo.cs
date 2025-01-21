@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("belajarASP-new")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+12fd5058becd87161b68cd3c4f04ce6b5e20bfdf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c8390c86b9d7aad2000a3a91d3ca1f5aba32f0af")]
 [assembly: System.Reflection.AssemblyProductAttribute("belajarASP-new")]
 [assembly: System.Reflection.AssemblyTitleAttribute("belajarASP-new")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

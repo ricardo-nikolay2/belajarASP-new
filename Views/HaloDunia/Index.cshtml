@@ -1,4 +1,4 @@
-﻿@model belajarASP_new.Models.NamaIdentitasModel;
+﻿@model List<belajarASP_new.Models.NamaIdentitasModel>
 
 
 @{
@@ -7,8 +7,13 @@
 
 <div class="text-center">
     <h1 class="display-4">Halo Dunia</h1>
-    <p>Halo, nama saya @Model.Nama dan usia saya @Model.Usia  </p>
-
+    <p>Data nama karyawan :  </p>
+    <ul>
+        @foreach(var nama in Model)
+        {
+            <li>Nama @nama.Nama dan Usia @nama.Usia</li>
+        }
+    </ul>
   
 </div>
 
