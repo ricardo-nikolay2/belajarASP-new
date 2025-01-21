@@ -18,6 +18,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\Latihan_RN2\belajarASP-new
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/Latihan_RN2/belajarASP-new/Views/HaloDunia/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFsb0R1bmlhXEFib3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Latihan_RN2/belajarASP-new/Views/HaloDunia/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFsb0R1bmlhXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Latihan_RN2/belajarASP-new/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

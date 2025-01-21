@@ -8,5 +8,15 @@ namespace belajarASP_new.Controllers
         {
             return View();
         }
+
+        public IActionResult About()
+        {
+            return View();
+        }
+
+        //public String Index()
+        //{
+        //    return "Ini adalah Halaman Depan Halo Dunia";
+        //}
     }
 }
