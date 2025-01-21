@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\Latihan_RN2\\belajarASP-new\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{230581AC-08C9-406B-A6DD-6AEBA13BDF1A}|belajarASP-new.csproj|d:\\latihan_rn2\\belajarasp-new\\views\\halodunia\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{230581AC-08C9-406B-A6DD-6AEBA13BDF1A}|belajarASP-new.csproj|solutionrelative:views\\halodunia\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{230581AC-08C9-406B-A6DD-6AEBA13BDF1A}|belajarASP-new.csproj|d:\\latihan_rn2\\belajarasp-new\\views\\halodunia\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{230581AC-08C9-406B-A6DD-6AEBA13BDF1A}|belajarASP-new.csproj|solutionrelative:views\\halodunia\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{230581AC-08C9-406B-A6DD-6AEBA13BDF1A}|belajarASP-new.csproj|d:\\latihan_rn2\\belajarasp-new\\controllers\\haloduniacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{230581AC-08C9-406B-A6DD-6AEBA13BDF1A}|belajarASP-new.csproj|solutionrelative:controllers\\haloduniacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{230581AC-08C9-406B-A6DD-6AEBA13BDF1A}|belajarASP-new.csproj|d:\\latihan_rn2\\belajarasp-new\\views\\halodunia\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{230581AC-08C9-406B-A6DD-6AEBA13BDF1A}|belajarASP-new.csproj|solutionrelative:views\\halodunia\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{230581AC-08C9-406B-A6DD-6AEBA13BDF1A}|belajarASP-new.csproj|d:\\latihan_rn2\\belajarasp-new\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,20 +42,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "About.cshtml",
               "DocumentMoniker": "D:\\Latihan_RN2\\belajarASP-new\\Views\\HaloDunia\\About.cshtml",
               "RelativeDocumentMoniker": "Views\\HaloDunia\\About.cshtml",
               "ToolTip": "D:\\Latihan_RN2\\belajarASP-new\\Views\\HaloDunia\\About.cshtml",
               "RelativeToolTip": "Views\\HaloDunia\\About.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-21T01:26:32.3Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Latihan_RN2\\belajarASP-new\\Views\\HaloDunia\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\HaloDunia\\Index.cshtml",
@@ -68,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "HaloDuniaController.cs",
               "DocumentMoniker": "D:\\Latihan_RN2\\belajarASP-new\\Controllers\\HaloDuniaController.cs",
               "RelativeDocumentMoniker": "Controllers\\HaloDuniaController.cs",
