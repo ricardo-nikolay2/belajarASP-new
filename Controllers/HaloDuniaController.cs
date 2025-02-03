@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using belajarASP_new.Models; /*mengkoneksikan kelas model ke controller*/
+using belajarASP_new.Models;
+using System.Reflection.Metadata.Ecma335; /*mengkoneksikan kelas model ke controller*/
 
 namespace belajarASP_new.Controllers
 {
@@ -33,6 +34,11 @@ namespace belajarASP_new.Controllers
 
         }
 
+        public IActionResult TidakValid()
+        {
+            return View();
+        }
+
         public IActionResult TambahNama (NamaIdentitasModel namaIdentitasModel) /*untuk membuat endpoint pada form di file Create.cshtml*/
         {
             if (ModelState.IsValid) /*sintak untuk validasi pada input NAMA dan UMUR*/
@@ -45,7 +51,9 @@ namespace belajarASP_new.Controllers
 
 
             //return View("About"); 
-            return Content("Data Tidak Valid", "Text/ Plain");
+            //return Content("Data Tidak Valid", "Text/ Plain");
+
+            return View("TidakValid");
             
         }
 
