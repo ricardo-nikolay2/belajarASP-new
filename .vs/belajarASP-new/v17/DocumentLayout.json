@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "D:\\Latihan_RN2\\belajarASP-new\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{230581AC-08C9-406B-A6DD-6AEBA13BDF1A}|belajarASP-new.csproj|d:\\latihan_rn2\\belajarasp-new\\views\\halodunia\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{230581AC-08C9-406B-A6DD-6AEBA13BDF1A}|belajarASP-new.csproj|solutionrelative:views\\halodunia\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{230581AC-08C9-406B-A6DD-6AEBA13BDF1A}|belajarASP-new.csproj|d:\\latihan_rn2\\belajarasp-new\\controllers\\haloduniacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{230581AC-08C9-406B-A6DD-6AEBA13BDF1A}|belajarASP-new.csproj|solutionrelative:controllers\\haloduniacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{230581AC-08C9-406B-A6DD-6AEBA13BDF1A}|belajarASP-new.csproj|d:\\latihan_rn2\\belajarasp-new\\views\\halodunia\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{230581AC-08C9-406B-A6DD-6AEBA13BDF1A}|belajarASP-new.csproj|solutionrelative:views\\halodunia\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{230581AC-08C9-406B-A6DD-6AEBA13BDF1A}|belajarASP-new.csproj|d:\\latihan_rn2\\belajarasp-new\\views\\halodunia\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{230581AC-08C9-406B-A6DD-6AEBA13BDF1A}|belajarASP-new.csproj|solutionrelative:views\\halodunia\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{230581AC-08C9-406B-A6DD-6AEBA13BDF1A}|belajarASP-new.csproj|d:\\latihan_rn2\\belajarasp-new\\models\\namaidentitasmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,6 +17,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{230581AC-08C9-406B-A6DD-6AEBA13BDF1A}|belajarASP-new.csproj|d:\\latihan_rn2\\belajarasp-new\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{230581AC-08C9-406B-A6DD-6AEBA13BDF1A}|belajarASP-new.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{230581AC-08C9-406B-A6DD-6AEBA13BDF1A}|belajarASP-new.csproj|d:\\latihan_rn2\\belajarasp-new\\views\\halodunia\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{230581AC-08C9-406B-A6DD-6AEBA13BDF1A}|belajarASP-new.csproj|solutionrelative:views\\halodunia\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{230581AC-08C9-406B-A6DD-6AEBA13BDF1A}|belajarASP-new.csproj|d:\\latihan_rn2\\belajarasp-new\\views\\halodunia\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{230581AC-08C9-406B-A6DD-6AEBA13BDF1A}|belajarASP-new.csproj|solutionrelative:views\\halodunia\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,59 +42,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\Latihan_RN2\\belajarASP-new\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\Latihan_RN2\\belajarASP-new\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAACAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-21T08:06:10.928Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\Latihan_RN2\\belajarASP-new\\Views\\HaloDunia\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\HaloDunia\\Create.cshtml",
               "ToolTip": "D:\\Latihan_RN2\\belajarASP-new\\Views\\HaloDunia\\Create.cshtml",
               "RelativeToolTip": "Views\\HaloDunia\\Create.cshtml",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAAEMAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-21T03:50:28.181Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "NamaIdentitasModel.cs",
-              "DocumentMoniker": "D:\\Latihan_RN2\\belajarASP-new\\Models\\NamaIdentitasModel.cs",
-              "RelativeDocumentMoniker": "Models\\NamaIdentitasModel.cs",
-              "ToolTip": "D:\\Latihan_RN2\\belajarASP-new\\Models\\NamaIdentitasModel.cs",
-              "RelativeToolTip": "Models\\NamaIdentitasModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T03:26:24.908Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "HaloDuniaController.cs",
               "DocumentMoniker": "D:\\Latihan_RN2\\belajarASP-new\\Controllers\\HaloDuniaController.cs",
               "RelativeDocumentMoniker": "Controllers\\HaloDuniaController.cs",
               "ToolTip": "D:\\Latihan_RN2\\belajarASP-new\\Controllers\\HaloDuniaController.cs",
               "RelativeToolTip": "Controllers\\HaloDuniaController.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAIwC0AAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwC8AAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-21T00:25:04.306Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Latihan_RN2\\belajarASP-new\\Views\\HaloDunia\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\HaloDunia\\Index.cshtml",
@@ -99,6 +77,45 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-21T03:23:01.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NamaIdentitasModel.cs",
+              "DocumentMoniker": "D:\\Latihan_RN2\\belajarASP-new\\Models\\NamaIdentitasModel.cs",
+              "RelativeDocumentMoniker": "Models\\NamaIdentitasModel.cs",
+              "ToolTip": "D:\\Latihan_RN2\\belajarASP-new\\Models\\NamaIdentitasModel.cs",
+              "RelativeToolTip": "Models\\NamaIdentitasModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T03:26:24.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Latihan_RN2\\belajarASP-new\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Latihan_RN2\\belajarASP-new\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T08:06:10.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "D:\\Latihan_RN2\\belajarASP-new\\Views\\HaloDunia\\About.cshtml",
+              "RelativeDocumentMoniker": "Views\\HaloDunia\\About.cshtml",
+              "ToolTip": "D:\\Latihan_RN2\\belajarASP-new\\Views\\HaloDunia\\About.cshtml",
+              "RelativeToolTip": "Views\\HaloDunia\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-22T08:03:36.461Z",
               "EditorCaption": ""
             }
           ]

@@ -35,15 +35,17 @@ namespace belajarASP_new.Controllers
 
         public IActionResult TambahNama (NamaIdentitasModel namaIdentitasModel) /*untuk membuat endpoint pada form di file Create.cshtml*/
         {
-            if (ModelState.IsValid)
+            if (ModelState.IsValid) /*sintak untuk validasi pada input NAMA dan UMUR*/
             {
-                {
+                
                     datanama.Add(namaIdentitasModel);
                     return RedirectToAction(nameof(Index));
-                }
+                
             }
 
-            return View("About");
+
+            //return View("About"); 
+            return Content("Data Tidak Valid", "Text/ Plain");
             
         }
 

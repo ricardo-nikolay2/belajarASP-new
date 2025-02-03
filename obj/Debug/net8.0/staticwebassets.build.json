@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "MQWaUj8TfEu+ANotctAL8Ryi+w8OjOJkLsvf+kVXiqA=",
+  "Hash": "5XEsH8FV23odFnL3xecZpRs2aDcWMdwZT6gROXkSOZ0=",
   "Source": "belajarASP-new",
   "BasePath": "_content/belajarASP-new",
   "Mode": "Default",
@@ -946,6 +946,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Identity": "D:\\Latihan_RN2\\belajarASP-new\\wwwroot\\lib\\bootstrap\\dist\\js\\newFile.js",
+      "SourceId": "belajarASP-new",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Latihan_RN2\\belajarASP-new\\wwwroot\\",
+      "BasePath": "_content/belajarASP-new",
+      "RelativePath": "lib/bootstrap/dist/js/newFile.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\newFile.js"
     },
     {
       "Identity": "D:\\Latihan_RN2\\belajarASP-new\\wwwroot\\lib\\bootstrap\\LICENSE",
